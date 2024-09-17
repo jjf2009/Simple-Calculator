@@ -1,4 +1,4 @@
-![Screenshot 2024-09-17 233152](https://github.com/user-attachments/assets/832f7e37-c777-4cab-b7ef-5a9659d16af2)# Simple Calculator
+### Simple Calculator
 
 A simple calculator built using HTML, CSS, and JavaScript. This calculator can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
